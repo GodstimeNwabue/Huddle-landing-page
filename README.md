@@ -1,7 +1,7 @@
 # Huddle-landing-page
 
+![screencapture-127-0-0-1-5500-2022-07-20-08_08_20](https://user-images.githubusercontent.com/57639474/179968705-58273a02-79d6-468c-9831-518f5c970779.png)
 
-![IMG_20220720_082828](https://user-images.githubusercontent.com/57639474/179968306-6368965d-c6b9-4daa-97fa-783f58714c18.jpg)
 
 
 ## Welcome! 👋
