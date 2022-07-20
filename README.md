@@ -70,6 +70,8 @@ We love receiving feedback! We're always looking to improve our challenges and o
 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
+Check out the hosted page on [Huddle landing page](https://godstimenwabue.github.io/Huddle-landing-page/). It would take you directly to the page that was built.
+
 ## Connect with me
 
 [Godstime Nwabue](https://linktr.ee/godstimenwabue)
